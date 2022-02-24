@@ -1,5 +1,7 @@
-
+## Refreence
 https://rustwasm.github.io/docs/book/game-of-life/implementing.html
+
+https://www.bilibili.com/video/BV1eg411g7c8?p=5&spm_id_from=pageDriver
 
 
 Setup
