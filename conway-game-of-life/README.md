@@ -1,3 +1,7 @@
+
+https://rustwasm.github.io/docs/book/game-of-life/implementing.html
+
+
 Setup
 ```
   cargo install wasm-pack
